@@ -9,7 +9,7 @@
     ─「Telegram MASS REPORT TOOL」─
 
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐙𝐈𝐃𝐃𝐈+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐇𝐀𝐑𝐒𝐇+𝐊𝐈𝐍𝐆+𝐌𝐀𝐃𝐇𝐔𝐁𝐀𝐍𝐈+🚩">
 
 <p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
