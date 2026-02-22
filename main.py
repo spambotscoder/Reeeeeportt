@@ -1,5 +1,5 @@
 import webbrowser
-webbrowser.open("https://t.me/nobi_shops")
+webbrowser.open("https://t.me/shona_bots")
 
 import asyncio
 import random
@@ -13,7 +13,7 @@ from telethon.tl.types import (
     InputReportReasonOther
 )
 
-API_ID = YOUR_API_ID 
+API_ID = "YOUR_API_ID" 
 apihash = "YOUR_API_HASH "
 
 class ziddi:
