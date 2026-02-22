@@ -13,8 +13,8 @@ from telethon.tl.types import (
     InputReportReasonOther
 )
 
-API_ID = "YOUR_API_ID" 
-apihash = "YOUR_API_HASH "
+API_ID = "36205318" 
+apihash = "59866c4e7719f2ab6a4e62bc9dde384b"
 
 class ziddi:
     def __init__(self, api_id, api_hash):
